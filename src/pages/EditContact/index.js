@@ -1,3 +1,9 @@
+import PageHeader from '../../components/PageHeader';
+
 export default function EditContact() {
-  return 'edit do cabral!';
+  return (
+    <PageHeader
+      title="Editar Gustavo"
+    />
+  );
 }
