@@ -1,4 +1,4 @@
-import { Container } from './styled';
+import { Container } from './styles';
 
 import logo from '../../assets/images/logo.svg';
 
